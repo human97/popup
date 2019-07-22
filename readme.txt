@@ -1,6 +1,4 @@
-Сверстать поп-ап. Макет прилагается.
-
-ТЗ:
+Адаптивный поп-ап.
 
 1. Поп-ап появляется с задержкой в 3 секунды.
 2. Поп-ап скрывается:
@@ -10,9 +8,16 @@
    клавишу Esc.
 3. При закрытии поп-апа сохраняем информацию о том, что поп-ап скрыт пользователем в cookies, чтобы при обновлении страницы не показывать его снова. Срок жизни куки - 1 сутки.
 
-Дополнительное можно сделать (необязательно):
-анимация появления / закрытия на свое усмотрение,
-адаптация под телефон и планшет с брейкпоинтами на свое усмотрение
+Реализация на ванильном JS.
 
-Реализация на ванильном JS (предпочтительно) / jQuery.
-Поп-ап должен корректно отображаться, а код не вызывать ошибок в консоли в IE11+ и всех последних версиях Chrome, Opera, Firefox, Safari, Edge.
+Adaptive pop-up.
+
+1. Pop-up appears with a delay of 3 seconds.
+2. Pop-up hiding:
+    when clicking beyond it,
+    clicking on the cross,
+    button "Pass the test",
+    Esc key.
+3. When closing a pop-up, we save information that the pop-up is hidden by the user in cookies so that when the page is refreshed it does not show it again. Cookies last for 1 day.
+
+Implementation on vanilla JS.
