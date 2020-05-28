@@ -8,7 +8,8 @@
    клавишу Esc.
 3. При закрытии поп-апа сохраняем информацию о том, что поп-ап скрыт пользователем в cookies, чтобы при обновлении страницы не показывать его снова. Срок жизни куки - 1 сутки.
 
-*Реализация на ванильном JS*
+Стек: Vanilla JS(ES6), CSS, HTML, BEM, NPM, Psdetch, Git
+*Реализованно: Vanilla JS, CSS, HTML*
 
 ### Adaptive pop-up.
 
@@ -20,4 +21,5 @@
     Esc key.
 3. When closing a pop-up, we save information that the pop-up is hidden by the user in cookies so that when the page is refreshed it does not show it again. Cookies last for 1 day.
 
-*Implementation on vanilla JS*
+Stack: Vanilla JS(ES6), CSS, HTML, BEM, NPM, Psdetch, Git
+*Implementation: Vanilla JS, CSS, HTML*
