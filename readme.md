@@ -1,4 +1,4 @@
-### Адаптивный поп-ап.
+### Адаптивный поп-ап. [Просмотр](https://human97.github.io/popup/)
 
 1. Поп-ап появляется с задержкой в 3 секунды.
 2. Поп-ап скрывается:
@@ -12,7 +12,7 @@
 
 *Реализованно: Vanilla JS, CSS, HTML*
 
-### Adaptive pop-up.
+### Adaptive pop-up. [Viewing](https://human97.github.io/popup/)
 
 1. Pop-up appears with a delay of 3 seconds.
 2. Pop-up hiding:
